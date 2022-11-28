@@ -3,10 +3,7 @@ UNA DOX TOOL CON HERRAMIENTAS UTILEZ PARA HACER DOXING!!
                                    ![dadddadada](https://user-images.githubusercontent.com/101432325/204172744-ca8bf395-77ba-440b-b70e-1550808c2080.PNG)
 
  
-![undefined - Imgur](https://user-images.githubusercontent.com/101432325/204171646-52bd543d-bccd-41f0-b3ac-bf53824e8a5c.gif)
-
-
-
+![BYBMy5](https://user-images.githubusercontent.com/101432325/204173071-4084619c-65be-4c7c-a603-0c833da300e0.gif)
 
 
 **'OPCIONES DE LA DOX TOOL'**
@@ -23,7 +20,7 @@ UNA DOX TOOL CON HERRAMIENTAS UTILEZ PARA HACER DOXING!!
 - `$DEEPWEB LINKS (BAINAS DE LA DEEP WEBS)`
 - `$TOKEN INFO IN PROCESS (INFORMACION DE UN TOKEN)`
 
-![fafafafafa](https://user-images.githubusercontent.com/101432325/204172381-899501e1-66b0-4c82-bf42-25cd0fc55f1e.PNG)
+![BYBMy5](https://user-images.githubusercontent.com/101432325/204173077-aad3c9ef-a797-491a-90f6-cac81c23b946.gif)
 
 
 #***USO PUBLICO Y PRIVADO!!**
