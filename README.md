@@ -6,7 +6,7 @@ UNA DOX TOOL CON HERRAMIENTAS UTILEZ PARA HACER DOXING!!
 ![BYBMy5](https://user-images.githubusercontent.com/101432325/204173071-4084619c-65be-4c7c-a603-0c833da300e0.gif)
 
 
-**'OPCIONES DE LA DOX TOOL'**
+**`OPCIONES DE LA DOX TOOL`**
 
 - `$IP INFO (INFORMACION DE UNA IP)`
 - `$Ip LOGGERS (PAGINAS PARA IP LOGGERS)`
@@ -25,24 +25,19 @@ UNA DOX TOOL CON HERRAMIENTAS UTILEZ PARA HACER DOXING!!
 
 #***USO PUBLICO Y PRIVADO!!**
 
+```sudo apt update
 ```
-sudo apt update
-
+```sudo apt upgrade
 ```
+```sudo apt install git -y
 ```
-sudo apt upgrade
-
+```git clone https://github.com/JabiNewWorld/AP_DOX_TOOL_JAB
 ```
+```cd AP_DOX_TOOL_JAB
+```pip3 -r install requirements.txt
 ```
-sudo apt install git -y
+```python3 DOxToolAP.py
 ```
-```
-git clone https://github.com/JabiNewWorld/AP_DOX_TOOL_JAB
-```
-```
-cd AP_DOX_TOOL_JAB
-```
-
 
 > [DISCORD AP OFICIAL](https://discord.gg/antiplague)
 
