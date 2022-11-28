@@ -24,8 +24,8 @@ UNA DOX TOOL CON HERRAMIENTAS UTILEZ PARA HACER DOXING!!
 
 
 #***USO PUBLICO Y PRIVADO!!**
-```sudo apt update
-```
+
+```sudo apt update```
 
 > [DISCORD AP OFICIAL](https://discord.gg/antiplague)
 
