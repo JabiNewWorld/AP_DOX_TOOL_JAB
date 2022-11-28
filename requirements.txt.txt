@@ -1,0 +1,11 @@
+ccard
+mimesis
+timezone
+colorama
+discord 
+phonenumbers
+requests
+socket
+js2py
+faker
+random 
