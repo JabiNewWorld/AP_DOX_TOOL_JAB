@@ -25,7 +25,24 @@ UNA DOX TOOL CON HERRAMIENTAS UTILEZ PARA HACER DOXING!!
 
 #***USO PUBLICO Y PRIVADO!!**
 
-```sudo apt update```
+```
+sudo apt update
+
+```
+```
+sudo apt upgrade
+
+```
+```
+sudo apt install git -y
+```
+```
+git clone https://github.com/JabiNewWorld/AP_DOX_TOOL_JAB
+```
+```
+cd AP_DOX_TOOL_JAB
+```
+
 
 > [DISCORD AP OFICIAL](https://discord.gg/antiplague)
 
